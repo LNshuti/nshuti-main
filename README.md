@@ -1,5 +1,5 @@
 Salut!
-I'm a Data Engineer at [UBS](https://ubs.com).
+I'm a Data Engineer at [UBS](https://ubs.com) passionate about creating impactful data applications. My core skills are data visualization, data modeling, project management, python and SQL. 
 
 Previously I was a Statistician at [Vanderbilt University Medical Center](https://www.vumc.org/health-policy/welcome-health-policy) and [Harvard University](https://www.hsph.harvard.edu/biostatistics/).
 
